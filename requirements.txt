@@ -1,0 +1,11 @@
+###### Requirements ######
+jupyter
+matplotlib
+numpy == 1.19.2
+pandas <= 1.2.4
+tensorflow == 2.4.1
+tensorboard == 2.4.1
+sklearn
+scikit-learn
+pickle-mixin
+opencv-python
