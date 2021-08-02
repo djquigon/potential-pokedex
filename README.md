@@ -18,3 +18,4 @@ Download packages in requirement.txt (this may take a while depending on your ma
 ```
 pip install -r requirements.txt
 ```
+Navigate to the root directory of the project on your machine and start the jupyter notebook.
